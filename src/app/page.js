@@ -1,8 +1,8 @@
 "use client";
 import { useState, useEffect } from "react";
-import ModalForm from "@/components/ModalForm";
-import DataTable from "@/components/DataTable";
-import Navbar from "@/components/Navbar";
+import ModalForm from "@/components/ModalForm.jsx";
+import DataTable from "@/components/DataTable.jsx";
+import Navbar from "@/components/Navbar.jsx";
 
 // 🧠 Osumare Frontend Assignment
 // ✅ Built manually by Om Bhagat
